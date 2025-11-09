@@ -3,7 +3,7 @@
 ## About Me
 
 PC and peripheral enthusiast from 🇩🇪 Germany  
-Friend from Open Source and Linux  
+Friend of Open Source and Linux  
 Beginning to learn Python
 
 ## 🖥️ My Tools
