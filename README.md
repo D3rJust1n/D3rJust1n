@@ -7,6 +7,7 @@ Friend from Open Source and Linux
 Beginning to learn Python
 
 ## 🖥️ My Tools
+[![](https://skills.syvixor.com/api/icons?i=cachyos)](https://cachyos.org/ "CachyOS")
 [![](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/ "Linux")
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python") 
 ![](https://skillicons.dev/icons?i=js)
@@ -27,7 +28,7 @@ Beginning to learn Python
 
 ## Contact
 [![](https://skillicons.dev/icons?i=discord)](https://d3r.eu/discord/ "Discord")
-[![](https://skillicons.dev/icons?i=instagram)](https://instagram.com/d3rjust1n/ "Instagam")
+[![](https://skillicons.dev/icons?i=instagram)](https://instagram.com/d3rjust1n/ "Instagram")
 [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@d3rjust1n/ "Mastodon")
 
 ✉️ [eMail](mailto:contact@d3rjust1n.xyz) • 🌐 [Website](https://d3rjust1n/xyz)
