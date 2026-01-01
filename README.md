@@ -3,7 +3,7 @@
 ## About Me
 
 PC and peripheral enthusiast from 🇩🇪 Germany  
-Friend from Open Source and Linux  
+Friend of Open Source and Linux  
 Beginning to learn Python
 
 ## 🖥️ My Tools
@@ -27,7 +27,7 @@ Beginning to learn Python
 </p>
 
 ## Social Media
-[![](https://skills.syvixor.com/api/icons?i=discord)](https://d3r.eu/discord/ "Discord")
+[![](https://skills.syvixor.com/api/icons?i=discord)](https://d3r.eu/dc "Discord")
 [![](https://skills.syvixor.com/api/icons?i=instagram)](https://instagram.com/d3rjust1n/ "Instagram")
 [![](https://skills.syvixor.com/api/icons?i=youtube)](https://youtube.com/@d3rjust1n/ "YouTube")
 [![](https://skills.syvixor.com/api/icons?i=mastodon)](https://mastodon.social/@d3rjust1n/ "Mastodon")
