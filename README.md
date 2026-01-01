@@ -36,7 +36,7 @@ Beginning to learn Python
 ## Contact
 [![](https://skills.syvixor.com/api/icons?i=protonmail)](mailto:contact@d3rjust1n.xyz)
 
-🌐 [Website](https://d3rjust1n/xyz)
+🌐 [Website](https://d3rjust1n.xyz)
 
 ---
 <sub>Made by D3rJust1n</sub>
