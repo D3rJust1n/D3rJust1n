@@ -12,7 +12,7 @@ Beginning to learn Python
 [![](https://skills.syvixor.com/api/icons?i=python)](https://python.org/ "Python") 
 ![](https://skills.syvixor.com/api/icons?i=javascript)
 [![](https://skills.syvixor.com/api/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm") 
-[![](https://skills.syvixor.com/api/icons?i=webstorm)](https://hetbrains.com/webstorm/ "Webstorm") 
+[![](https://skills.syvixor.com/api/icons?i=webstorm)](https://jetbrains.com/webstorm/ "Webstorm") 
 [![](https://skills.syvixor.com/api/icons?i=debian)](https://debian.org/ "Debian") 
 [![](https://skills.syvixor.com/api/icons?i=docker)](https://docker.com/ "Docker") 
 [![](https://skills.syvixor.com/api/icons?i=astro)](https://astro.build/ "Astro") 
