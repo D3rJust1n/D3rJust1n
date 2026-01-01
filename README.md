@@ -23,7 +23,7 @@ Beginning to learn Python
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats-d3rjust1n.vercel.app//api?username=D3rJust1n&theme=blue-green"  alt="Github Stats" width="500"/>
+  <img src="https://github-readme-stats-d3rjust1n.vercel.app/api?username=D3rJust1n&theme=blue-green"  alt="Github Stats" width="500"/>
 </p>
 
 ## Social Media
