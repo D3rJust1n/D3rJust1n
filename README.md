@@ -10,6 +10,7 @@ Beginning to learn Python
 [![](https://skills.syvixor.com/api/icons?i=cachyos)](https://cachyos.org/ "CachyOS")
 [![](https://skills.syvixor.com/api/icons?i=linux)](https://www.kernel.org/ "Linux")
 [![](https://skills.syvixor.com/api/icons?i=python)](https://python.org/ "Python") 
+[![](https://skills.syvixor.com/api/icons?i=astraluv)](https://docs.astral.sh/uv/ "Astral uv")
 ![](https://skills.syvixor.com/api/icons?i=javascript)
 [![](https://skills.syvixor.com/api/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm") 
 [![](https://skills.syvixor.com/api/icons?i=webstorm)](https://jetbrains.com/webstorm/ "Webstorm") 
